@@ -39,7 +39,7 @@ The Transformer model introduced in "Attention Is All You Need" replaces recurre
 ## Results
 
 The figure below shows the result of training the transformer for 20 epochs.
-![Transformer Diagram](images/transformer-diagram.png)
+![Transformer Diagram](images/result.png)
 
 Additionall, the visualization of attention mechanism is shown below.
 
